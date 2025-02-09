@@ -1,0 +1,14 @@
+opis1:
+    type: Web
+    title: "Opis ćwiczenia nr 11: Moduł Younga "
+    author: AGH WFiIS
+    url: { value: https://pf.agh.edu.pl/home/wfiis/pracfiz/Opisy_cwiczen/11_opis.pdf, date: 2024-10-31}
+instrukcja:
+    type: Web
+    title: "Instrukcja wykonania ćwiczenia nr 11: Moduł Younga"
+    author: AGH WFiIS
+    url: { value: https://pf.agh.edu.pl/home/wfiis/pracfiz/Opisy_cwiczen/11_wykon.pdf, date: 2024-10-31}
+cwiczenia:
+    type: Book
+    title: Ćwiczenia laboratoryjne z fizyki
+    author: Zieliński, Witold

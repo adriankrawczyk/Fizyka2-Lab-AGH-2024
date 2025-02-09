@@ -1,0 +1,18 @@
+opis1:
+    type: Web
+    title: "Opis ćwiczenia nr 11: Moduł Younga "
+    author: AGH WFiIS
+    url: { value: https://pf.agh.edu.pl/home/wfiis/pracfiz/Opisy_cwiczen/11_opis.pdf, date: 2024-10-20}
+wiki:
+    type: Web
+    title: "Wikipedia - Moduł Younga "
+    url: { value: https://pl.wikipedia.org/wiki/Modu%C5%82_Younga, date: 2024-10-20}
+strona:
+    type: Web
+    title: "Strona internetowa PF AGH z opisem ćwiczenia nr 29 "
+    author: AGH WFiIS
+    url: { value: https://pf.agh.edu.pl/cwiczenia/29-fale-podluzne-w-cialach-stalych, date: 2024-10-20}
+cwiczenia:
+    type: Book
+    title: Ćwiczenia laboratoryjne z fizyki
+    author: Zieliński, Witold

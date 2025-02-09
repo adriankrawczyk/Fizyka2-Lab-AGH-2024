@@ -1,0 +1,18 @@
+opis1:
+    type: Web
+    title: "Opis ćwiczenia nr 31: Modelowanie pola elektrycznego "
+    author: AGH WFiIS
+    url: { value: https://pf.agh.edu.pl/home/wfiis/pracfiz/Opisy_cwiczen/31_opis.pdf, date: 2024-10-27}
+instrukcja:
+    type: Web
+    title: "Instrukcja wykonania ćwiczenia nr 31: Modelowanie pola elektrycznego"
+    author: AGH WFiIS
+    url: { value: https://pf.agh.edu.pl/home/wfiis/pracfiz/Opisy_cwiczen/31_wykon.pdf, date: 2024-10-27}
+cwiczenia:
+    type: Book
+    title: Ćwiczenia laboratoryjne z fizyki
+    author: Zieliński, Witold
+skrypt:
+    type: Web
+    title: "Skrypt do generowania pól wektorowych"
+    url: { value: https://github.com/Nepommuck/Vector-Field-Modelling, date: 2024-10-27}

@@ -1,0 +1,9 @@
+electronic:
+    type: Web
+    title: "Ćwiczenie nr 45: Wyznaczanie ładunku właściwego elektronu"
+    author: AGH WFiIS
+    url: { value: https://pf.agh.edu.pl/home/wfiis/pracfiz/Opisy_cwiczen/45_wykon-beta.pdf, date: 2024-10-10}
+cwiczenia:
+    type: Book
+    title: Ćwiczenia laboratoryjne z fizyki
+    author: Zieliński, Witold

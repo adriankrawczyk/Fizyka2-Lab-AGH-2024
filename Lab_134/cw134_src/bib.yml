@@ -1,0 +1,9 @@
+opis1:
+    type: Web
+    title: "Opis ćwiczenia nr 134: Ogniwo słoneczne"
+    author: AGH WFiIS
+    url: { value: https://pf.agh.edu.pl/home/wfiis/pracfiz/Opisy_cwiczen/134.pdf, date: 2024-11-08}
+cwiczenia:
+    type: Book
+    title: Ćwiczenia laboratoryjne z fizyki
+    author: Zieliński, Witold

@@ -1,0 +1,14 @@
+opis1:
+    type: Web
+    title: "Opis ćwiczenia nr 41: Busola stycznych"
+    author: AGH WFiIS
+    url: { value: https://pf.agh.edu.pl/home/wfiis/pracfiz/Opisy_cwiczen/41_opis.pdf, date: 2024-11-22}
+instr1:
+    type: Web
+    title: "Instrukcja wykonania ćwiczenia nr 41: Busola stycznych"
+    author: AGH WFiIS
+    url: { value: https://pf.agh.edu.pl/home/wfiis/pracfiz/Opisy_cwiczen/41_wykon.pdf, date: 2024-11-22}
+cwiczenia:
+    type: Book
+    title: Ćwiczenia laboratoryjne z fizyki
+    author: Zieliński, Witold
